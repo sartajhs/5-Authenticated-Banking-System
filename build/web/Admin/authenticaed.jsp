@@ -1,8 +1,4 @@
-<%-- 
-    Document   : authenticaed
-    Created on : May 10, 2013, 9:52:20 AM
-    Author     : Praful
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@page import="java.sql.*" %>

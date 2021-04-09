@@ -1,8 +1,4 @@
-<%-- 
-    Document   : login1
-    Created on : Feb 20, 2013, 8:56:45 AM
-    Author     : Praful
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -15,7 +11,6 @@
         <link href="css/templatemo_style.css" rel="stylesheet" type="text/css" />
 
         <script type="text/javascript" src="js/jquery-1-4-2.min.js"></script> 
-        <!--script type="text/javascript" src="/jqueryui/js/jquery-ui-1.7.2.custom.min.js"></script--> 
         <script type="text/javascript" src="js/jquery-ui.min.js"></script> 
         <script type="text/javascript" src="js/showhide.js"></script> 
         <script type="text/JavaScript" src="js/jquery.mousewheel.js"></script> 
@@ -24,12 +19,6 @@
 
         <script type="text/javascript" src="js/jquery.min.js"></script>
         <script type="text/javascript" src="js/ddsmoothmenu.js">
-
-            /***********************************************
-             * Smooth Navigational Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
-             * This notice MUST stay intact for legal use
-             * Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
-             ***********************************************/
 
         </script>
 

@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Login
-    Created on : May 11, 2013, 7:33:09 PM
-    Author     : Praful
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@page import="java.sql.*"%>
@@ -72,7 +68,6 @@
                                         <tr>
                                             <td colspan="2">
                                                 <input type="submit" value="Reset Password" name="submit" />
-                                                <%-- <input type="button" value="Refresh" onClick="window.location.href=window.location.href"></td>--%>
                                                 <input type="reset" value="Reset" name="reset" /></td>
                                         </tr>
                                      
@@ -81,43 +76,10 @@
                             </form>
                             <div class="clr"></div>
                         </div>
-<!--                        <div class="article">
-                            <h2><span>We'll Make Sure Template</span> Works For You</h2>
-                            <p class="infopost">Posted <span class="date">on 29 aug 2016</span> by <a href="#">Admin</a> &nbsp;&nbsp;|&nbsp;&nbsp; Filed under <a href="#">templates</a>, <a href="#">internet</a> <a href="#" class="com">Comments <span>(7)</span></a></p>
-                            <div class="clr"></div>
-                            <div class="img"><img src="images/img2.jpg" width="179" height="215" alt="" class="fl" /></div>
-                            <div class="post_content">
-                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec libero. Suspendisse bibendum. Cras id urna. <a href="#">Morbi tincidunt, orci ac convallis aliquam, lectus turpis varius lorem, eu posuere nunc justo tempus leo.</a> Donec mattis, purus nec placerat bibendum, dui pede condimentum odio, ac blandit ante orci ut diam. Cras fringilla magna. Phasellus suscipit, leo a pharetra condimentum, lorem tellus eleifend magna, eget fringilla velit magna id neque. Curabitur vel urna. In tristique orci porttitor ipsum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec libero. Suspendisse bibendum. Cras id urna. Morbi tincidunt, orci ac convallis aliquam.</p>
-                                <p><strong>Aenean consequat porttitor adipiscing. Nam pellentesque justo ut tortor congue lobortis. Donec venenatis sagittis fringilla.</strong> Etiam nec libero magna, et dictum velit. Proin mauris mauris, mattis eu elementum eget, commodo in nulla. Mauris posuere venenatis pretium. Maecenas a dui sed lorem aliquam dictum. Nunc urna leo, imperdiet eu bibendum ac, pretium ac massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Quisque condimentum luctus ullamcorper.</p>
-                                <p class="spec"><a href="#" class="rm">Read more &raquo;</a></p>
-                            </div>
-                            <div class="clr"></div>
-                        </div>
-                        <p class="pages"><small>Page 1 of 2</small> <span>1</span> <a href="#">2</a> <a href="#">&raquo;</a></p>-->
-                    </div>
+        </div>
                     <div class="sidebar">
-<!--                        <div class="searchform">
-                            <form id="formsearch" name="formsearch" method="post" action="#">
-                                <span>
-                                    <input name="editbox_search" class="editbox_search" id="editbox_search" maxlength="80" value="Search our ste:" type="text" />
-                                </span>
-                                <input name="button_search" src="images/search.gif" class="button_search" type="image" />
-                            </form>
-                        </div>-->
-                        <div class="clr"></div>
-<!--                        <div class="gadget">
-                            <h2 class="star"><span>Sidebar</span> Menu</h2>
-                            <div class="clr"></div>
-                            <ul class="sb_menu">
-                                <li><a href="#">Home</a></li>
-                                <li><a href="#">TemplateInfo</a></li>
-                                <li><a href="#">Style Demo</a></li>
-                                <li><a href="#">Blog</a></li>
-                                <li><a href="#">Archives</a></li>
-                                <li><a href="#">Web Templates</a></li>
-                            </ul>
-                        </div>-->
-                        <div class="gadget">
+    <div class="clr"></div>
+             <div class="gadget">
                             <h2 class="star"><span>News And Events</span></h2>
                             <div class="clr"></div>
                             <ul class="ex_menu">
@@ -156,39 +118,11 @@
                     <div class="clr"></div>
                 </div>
             </div>
-<!--            <div class="fbg">
-                <div class="fbg_resize">
-                    <div class="col c1">
-                        <h2><span>Image</span> Gallery</h2>
-                        <a href="#"><img src="images/gal1.jpg" width="75" height="75" alt="" class="gal" /></a> <a href="#"><img src="images/gal2.jpg" width="75" height="75" alt="" class="gal" /></a> <a href="#"><img src="images/gal3.jpg" width="75" height="75" alt="" class="gal" /></a> <a href="#"><img src="images/gal4.jpg" width="75" height="75" alt="" class="gal" /></a> <a href="#"><img src="images/gal5.jpg" width="75" height="75" alt="" class="gal" /></a> <a href="#"><img src="images/gal6.jpg" width="75" height="75" alt="" class="gal" /></a> </div>
-                    <div class="col c2">
-                        <h2><span>Services</span> Overview</h2>
-                        <p>Curabitur sed urna id nunc pulvinar semper. Nunc sit amet tortor sit amet lacus sagittis posuere cursus vitae nunc.Etiam venenatis, turpis at eleifend porta, nisl nulla bibendum justo.</p>
-                        <ul class="fbg_ul">
-                            <li><a href="#">Lorem ipsum dolor labore et dolore.</a></li>
-                            <li><a href="#">Excepteur officia deserunt.</a></li>
-                            <li><a href="#">Integer tellus ipsum tempor sed.</a></li>
-                        </ul>
-                    </div>
-                    <div class="col c3">
-                        <h2><span>Contact</span> Us</h2>
-                        <p>Nullam quam lorem, tristique non vestibulum nec, consectetur in risus. Aliquam a quam vel leo gravida gravida eu porttitor dui.</p>
-                        <p class="contact_info"> <span>Address:</span> 1458 TemplateAccess, USA<br />
-                            <span>Telephone:</span> +123-1234-5678<br />
-                            <span>FAX:</span> +458-4578<br />
-                            <span>Others:</span> +301 - 0125 - 01258<br />
-                            <span>E-mail:</span> <a href="#">mail@yoursitename.com</a> </p>
-                    </div>
-                    <div class="clr"></div>
-                </div>
-            </div>-->
+
             <div class="footer">
                 <div class="footer_resize">
-<!--                    <p class="lf">&copy; Copyright <a href="#">MyWebSite</a>.</p>
-                    <p class="rf">Design by Dream <a href="http://www.dreamtemplate.com/">Web Templates</a></p>-->
-                    <div style="clear:both;"></div>
+      <div style="clear:both;"></div>
                 </div>
             </div>
         </div>
-        <!--<div align=center>This template  downloaded form <a href='http://all-free-download.com/free-website-templates/'>free website templates</a></div></body>-->
-</html>
+      </html>

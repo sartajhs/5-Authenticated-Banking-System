@@ -1,8 +1,4 @@
-<%-- 
-    Document   : forgetcheck
-    Created on : Mar 5, 2017, 1:43:55 PM
-    Author     : Shri
---%>
+
 <%@page import="BAL.EncryDecry"%>
 <%@page import="BAL.mail.JavaGmailSendExample"%>
 <%@page import="DAL.*" %>

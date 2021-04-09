@@ -1,8 +1,4 @@
-<%-- 
-    Document   : logmonitor
-    Created on : May 10, 2013, 10:28:40 AM
-    Author     : Praful
---%>
+\
 
 <%@ page contentType="text/html; charset=Cp1252" %>
 <%@ taglib uri="/WEB-INF/datagrid.tld" prefix="grd" %>
@@ -34,12 +30,7 @@
         <script type="text/javascript" src="js/jquery.min.js"></script>
         <script type="text/javascript" src="js/ddsmoothmenu.js">
 
-            /***********************************************
-             * Smooth Navigational Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
-             * This notice MUST stay intact for legal use
-             * Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
-             ***********************************************/
-
+          
         </script>
 
         <script type="text/javascript">

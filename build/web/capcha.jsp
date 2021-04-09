@@ -1,8 +1,4 @@
-<%-- 
-    Document   : capcha
-    Created on : May 23, 2013, 10:06:14 AM
-    Author     : Praful
---%>
+
 
 <%@ page import="java.util.*"%>
 <%@page import="java.io.*" %>

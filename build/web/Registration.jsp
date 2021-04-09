@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Registration
-    Created on : May 10, 2013, 2:59:48 AM
-    Author     : Praful
---%>
+
 
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -146,12 +142,7 @@
                                                         <td> Aadhar card No.<sup>*</sup></td>
                                                         <td><input type="text" name="aadhar" value="" size="20" onkeyup="isNumber(this)" maxlength="12"/></td>
                                                     </tr>
-<!--                                                    <tr>
-                                                        <td>Insert Your Photo</td>
-                                                        <td colspan="2">
-                                                            <input name="img" type='file' onchange="readURL(this);" /></td>
-                                                        <td><img id="img_prev" src="#" alt="your image" /></td>
-                                                    </tr>-->
+
                                                     <tr>
                                                         <td colspan="3"><font color="red">(Fields marked with * are mandatory.)</font></td>
                                                     </tr>
@@ -306,49 +297,10 @@
                                 <div class="clr"></div>
                             </form>
                         </div>
-<!--                        <div class="article">
-                            <h2><marquee><span>Lets Make-Up with Intruder,</span> And , Hang Over It</marquee></h2>
-                            <p class="infopost">Posted <span class="date">on 11 sep 2018</span> by <a href="#">Admin</a> &nbsp;&nbsp;|&nbsp;&nbsp; Filed under <a href="#">templates</a>, <a href="#">internet</a> <a href="#" class="com">Comments <span>(11)</span></a></p>
-                            <div class="clr"></div>
-                            <div class="img"><img src="images/img1.jpg" width="179" height="215" alt="" class="fl" /></div>
-                            <div class="post_content">
-                                <p>Intruder detection system <a href="#"></a><br>An Intrusion Detection System is an important part of the Security Management  system for computers and networks that tries to detect break-ins or break-in attempts.</p>
-                                <p><strong>Intrusion detection is a technique of detecting unauthorized access to a computer system or a computer network.An intrusion into a system is an attempt by an outsider to the system to illegally gain access to the system. 
-                                        The goal of an IDS is to detect malicious traffic.Designed to detect instances of the access of computer  systems by unauthorized individuals and the misuse of system resources by authorized system users.</strong>
-                                    <br>There are the present working systems are here as:<br>
-                                            <strong>Network-based IDS:</strong><br>Network-based IDSs are mostly passive devices that monitor ongoing network activity without adding significant overhead or interfering with network operation. They are easy to secure against attack and may even be undetectable to attackers; they also require little effort to install and use on existing networks.
-                                                <br><strong>Host-based IDS:</strong><br> Host-based IDS can analyze activities on the host it monitors at a high level of detail; it can often determine which processes and/or users are involved in malicious activities. Application-based IDS :
-                                                        An application-based IDS concentrates on events occurring within some specific application. They often detect attacks through analysis of application log files and can usually identify many types of attack or suspicious activity.
-                                                        <strong><br>Signature-based IDS :</strong><br>A signature-based IDS examines ongoing traffic, activity, transactions, or behavior for matches with known patterns of events specific to known attacks.</p>
-                                                            <p class="spec"><a href="#" class="rm">Read more &raquo;</a></p>
-                                                            </div>
-                                                            <div class="clr"></div>
-
-                                                            </div>
-                                                            <p class="pages"><small>Page 1 of 2</small> <span>1</span> <a href="#">2</a> <a href="#">&raquo;</a></p>-->
-                                                            </div>
+        </div>
                                                             <div class="sidebar">
-<!--                                                                <div class="searchform">
-                                                                    <form id="formsearch" name="formsearch" method="post" action="#">
-                                                                        <span>
-                                                                            <input name="editbox_search" class="editbox_search" id="editbox_search" maxlength="80" value="Search our ste:" type="text" />
-                                                                        </span>
-                                                                        <input name="button_search" src="images/search.gif" class="button_search" type="image" />
-                                                                    </form>
-                                                                </div>-->
-                                                                <div class="clr"></div>
-<!--                                                                <div class="gadget">
-                                                                    <h2 class="star"><span>Sidebar</span> Menu</h2>
-                                                                    <div class="clr"></div>
-                                                                    <ul class="sb_menu">
-                                                                        <li><a href="#">Home</a></li>
-                                                                        <li><a href="#">TemplateInfo</a></li>
-                                                                        <li><a href="#">Style Demo</a></li>
-                                                                        <li><a href="#">Blog</a></li>
-                                                                        <li><a href="#">Archives</a></li>
-                                                                        <li><a href="#">Web Templates</a></li>
-                                                                    </ul>
-                                                                </div>-->
+                 <div class="clr"></div>
+
                                                                 <div class="gadget">
                                                                     <h2 class="star"><span>News And Events</span></h2>
                                                                     <div class="clr"></div>
@@ -387,39 +339,11 @@
                                                             <div class="clr"></div>
                                                             </div>
                                                             </div>
-<!--                                                            <div class="fbg">
-                                                                <div class="fbg_resize">
-                                                                    <div class="col c1">
-                                                                        <h2><span>Image</span> Gallery</h2>
-                                                                        <a href="#"><img src="images/gal1.jpg" width="75" height="75" alt="" class="gal" /></a> <a href="#"><img src="images/gal2.jpg" width="75" height="75" alt="" class="gal" /></a> <a href="#"><img src="images/gal3.jpg" width="75" height="75" alt="" class="gal" /></a> <a href="#"><img src="images/gal4.jpg" width="75" height="75" alt="" class="gal" /></a> <a href="#"><img src="images/gal5.jpg" width="75" height="75" alt="" class="gal" /></a> <a href="#"><img src="images/gal6.jpg" width="75" height="75" alt="" class="gal" /></a> </div>
-                                                                    <div class="col c2">
-                                                                        <h2><span>Services</span> Overview</h2>
-                                                                        <p>Curabitur sed urna id nunc pulvinar semper. Nunc sit amet tortor sit amet lacus sagittis posuere cursus vitae nunc.Etiam venenatis, turpis at eleifend porta, nisl nulla bibendum justo.</p>
-                                                                        <ul class="fbg_ul">
-                                                                            <li><a href="#">Lorem ipsum dolor labore et dolore.</a></li>
-                                                                            <li><a href="#">Excepteur officia deserunt.</a></li>
-                                                                            <li><a href="#">Integer tellus ipsum tempor sed.</a></li>
-                                                                        </ul>
-                                                                    </div>
-                                                                    <div class="col c3">
-                                                                        <h2><span>Contact</span> Us</h2>
-                                                                        <p>Nullam quam lorem, tristique non vestibulum nec, consectetur in risus. Aliquam a quam vel leo gravida gravida eu porttitor dui.</p>
-                                                                        <p class="contact_info"> <span>Address:</span> 1458 TemplateAccess, USA<br />
-                                                                            <span>Telephone:</span> +123-1234-5678<br />
-                                                                            <span>FAX:</span> +458-4578<br />
-                                                                            <span>Others:</span> +301 - 0125 - 01258<br />
-                                                                            <span>E-mail:</span> <a href="#">mail@yoursitename.com</a> </p>
-                                                                    </div>
-                                                                    <div class="clr"></div>
-                                                                </div>
-                                                            </div>-->
+
                                                             <div class="footer">
                                                                 <div class="footer_resize">
-<!--                                                                    <p class="lf">&copy; Copyright <a href="#">MyWebSite</a>.</p>
-                                                                    <p class="rf">Design by Dream <a href="http://www.dreamtemplate.com/">Web Templates</a></p>-->
-                                                                    <div style="clear:both;"></div>
+                              <div style="clear:both;"></div>
                                                                 </div>
                                                             </div>
                                                             </div>
-                                                            <!--<div align=center>This template  downloaded form <a href='http://all-free-download.com/free-website-templates/'>free website templates</a></div></body>-->
                                                             </html>

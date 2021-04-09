@@ -1,8 +1,4 @@
-<%-- 
-    Document   : authentication
-    Created on : May 10, 2013, 9:21:12 AM
-    Author     : Praful
---%>
+
 
 <%@ page contentType="text/html; charset=Cp1252" %>
 <%@ taglib uri="/WEB-INF/datagrid.tld" prefix="grd" %>

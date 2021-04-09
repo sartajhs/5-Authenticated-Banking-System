@@ -1,8 +1,4 @@
-<%-- 
-    Document   : transactions
-    Created on : Jan 15, 2013, 1:50:13 PM
-    Author     : a
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@ taglib uri="/WEB-INF/datagrid.tld" prefix="grd" %>
@@ -27,14 +23,8 @@
         <meta name="description" content="Wooden Strip Portfolio - free website theme (xhtml/css) provided by templatemo.com" />
         <link href="templatemo_style.css" rel="stylesheet" type="text/css" />
         <link rel="StyleSheet" href="GridStyle.css"/>
-        <!--////// CHOOSE ONE OF THE 3 PIROBOX STYLES  \\\\\\\-->
-        <link href="css_pirobox/white/style.css" media="screen" title="shadow" rel="stylesheet" type="text/css" />
-        <!--<link href="css_pirobox/white/style.css" media="screen" title="white" rel="stylesheet" type="text/css" />
-        <link href="css_pirobox/black/style.css" media="screen" title="black" rel="stylesheet" type="text/css" />-->
-        <!--////// END  \\\\\\\-->
-
-        <!--////// INCLUDE THE JS AND PIROBOX OPTION IN YOUR HEADER  \\\\\\\-->
-        <script type="text/javascript" src="js/jquery.min.js"></script>
+         <link href="css_pirobox/white/style.css" media="screen" title="shadow" rel="stylesheet" type="text/css" />
+          <script type="text/javascript" src="js/jquery.min.js"></script>
         <script type="text/javascript" src="js/piroBox.1_2.js"></script>
         <script type="text/javascript">
             $(document).ready(function() {

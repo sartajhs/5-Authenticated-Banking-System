@@ -1,8 +1,4 @@
-<%-- 
-    Document   : bal
-    Created on : Jan 15, 2013, 1:47:54 PM
-    Author     : a
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@page import="java.sql.*" %>
@@ -136,13 +132,7 @@
 
                 <div class="sidebar_top"></div>
 
-<!--                <div class="sidebar">
-                    <a href="http://www.templatemo.com" target="_parent"><img src="images/banner_240x120.jpg" alt="banner" width="240" height="120" /></a>
-                </div>
 
-                <div class="sidebar_bottom"></div>
-
-                <div class="sidebar_top"></div>-->
 
                 <div class="sidebar">
 
@@ -164,21 +154,7 @@
 
                 </div>
 
-<!--                <div class="sidebar_bottom"></div>
 
-                <div class="sidebar_top"></div>
-                <div class="sidebar">
-
-                    <h4>Useful Links</h4>
-                    <ul>
-                        <li><a href="http://www.sbimf.com/" target="_blank">SBI Mutual Fund</a></li>
-                        <li><a href="http://www.sbicard.com/" target="_blank">SBI Card</a></li>
-                        <li><a href="http://www.sbicapsec.com/" target="_blank">SBICAP Securities</a></li>
-                        <li><a href="http://www.sbilife.co.in" target="_blank">SBI Life Insurance</a></li>
-                        <li><a href="http://www.sbigeneral.in" target="_blank">SBI General Insurance</a></li>
-                    </ul>
-
-                </div><div class="sidebar_bottom"></div>-->
 
             </div>
 
@@ -186,53 +162,11 @@
 
         </div>
 
-<!--        <div id="templatemo_footer_wrapper">
 
-            <div id="templatemo_footer">
-
-                <div class="col_w270">
-                    <h4>Follow Us</h4>
-                    <p>Cras a volutpat lacus. Ut nisi metus, lobortis vel egestas at, condimentum.</p>
-
-                    <ul id="social_box">
-                        <li><a href="http://www.facebook.com/templatemo"><img src="images/facebook.png" alt="facebook" /></a></li>
-                        <li><a href="http://www.facebook.com/templatemo"><img src="images/twitter.png" alt="twitter" /></a></li>
-                        <li><a href="#"><img src="images/linkedin.png" alt="linkin" /></a></li>
-                        <li><a href="#"><img src="images/technorati.png" alt="technorati" /></a></li>
-                        <li><a href="#"><img src="images/myspace.png" alt="myspace" /></a></li>                
-                    </ul>
-                </div>
-
-                <div class="col_w270">
-                    <h4>Our Pages</h4>
-                    <ul>
-                        <li><a href="index.jsp">Home</a></li>
-                        <li><a href="portfolio.html">Portfolio</a></li>
-                        <li><a href="services.html">Services</a></li>
-                        <li><a href="Registrationform.jsp">Blog Post</a></li>
-                        <li><a href="contact.html" class="last">Contact</a></li>
-                    </ul>  
-                </div>
-
-                <div class="col_w270 col_w270_last">
-                    <h4>Partners</h4>
-                    <ul>
-                        <li><a href="http://www.flashmo.com">Flash Templates</a></li>
-                        <li><a href="http://www.templatemo.com">Free CSS Templates</a></li>
-                        <li><a href="http://www.koflash.com">Flash Websites</a></li>
-                        <li><a href="http://www.templatemo.com/page/1">Web Templates</a></li>
-                    </ul>
-                </div>
-
-                <div class="cleaner"></div>
-            </div>
-
-        </div>-->
 
         <div id="templatemo_copyright_wrapper">
             <div id="templatemo_copyright">
-                <!--Copyright © 2048 <a href="#">Your Company Name</a> | Designed by <a href="http://www.templatemo.com" target="_parent">Free CSS Templates</a>-->
-            </div>
+                      </div>
         </div>
 
     </body>

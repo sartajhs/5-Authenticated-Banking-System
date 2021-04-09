@@ -1,8 +1,4 @@
-<%-- 
-    Document   : ResetPassword
-    Created on : Mar 5, 2017, 1:40:13 PM
-    Author     : Shri
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

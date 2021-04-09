@@ -1,8 +1,4 @@
-<%-- 
-    Document   : psychotest
-    Created on : Jun 4, 2013, 12:04:30 PM
-    Author     : Ujju
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@page import="DAL.*" %>

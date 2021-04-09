@@ -1,8 +1,4 @@
-<%-- 
-    Document   : logmonitor
-    Created on : May 10, 2013, 10:28:40 AM
-    Author     : Praful
---%>
+
 
 <%@ page contentType="text/html; charset=Cp1252" %>
 <%@ taglib uri="/WEB-INF/datagrid.tld" prefix="grd" %>
@@ -34,11 +30,6 @@
 <script type="text/javascript" src="js/jquery.min.js"></script>
 <script type="text/javascript" src="js/ddsmoothmenu.js">
 
-/***********************************************
-* Smooth Navigational Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
-* This notice MUST stay intact for legal use
-* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
-***********************************************/
 
 </script>
 
@@ -110,41 +101,8 @@ function doSort(pstrFld, pstrOrd)
 
 <div id="templatemo_header_wrapper">
 	<div id="">
-            <!--<h1><a href="http://www.templatemo.com">Free CSS Templates</a></h1>-->
-        </div>
-<!--     <div id="templatemo_menu" class="ddsmoothmenu">
-        <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="about.html">About</a>
-                <ul>
-                    <li><span class="top"></span><span class="bottom"></span></li>
-                    <li><a href="http://www.templatemo.com/page/1">Sub menu 1</a></li>
-                    <li><a href="http://www.templatemo.com/page/2">Sub menu 2</a></li>
-                    <li><a href="http://www.templatemo.com/page/3">Sub menu 3</a></li>
-              	</ul>
-            </li>
-            <li><a href="portfolio.html">Portfolio</a>
-                <ul>
-                    <li><span class="top"></span><span class="bottom"></span></li>
-                    <li><a href="http://www.templatemo.com/page/1">Sub menu 1</a></li>
-                    <li><a href="http://www.templatemo.com/page/2">Sub menu 2</a></li>
-                    <li><a href="http://www.templatemo.com/page/3">Sub menu 3</a></li>
-                    <li><a href="http://www.templatemo.com/page/4">Sub menu 4</a></li>
-                    <li><a href="http://www.templatemo.com/page/5">Sub menu 5</a></li>
-              	</ul>
-            </li>
-            <li><a href="search.jsp">Search</a></li>
-            <li><a>Setting</a>
-                <ul>
-                    <li><span class="top"></span><span class="bottom"></span></li>
-                    <li><a href="changepass.jsp">Change Password</a></li>
-                    <li><a href="search.jsp">Log monitor</a></li>
-                    <li><a href="autsearch.jsp">Authentication</a></li>
-              	</ul>
-            </li>
-        </ul>
-        <br style="clear: left" />
-    </div>  end of templatemo_menu -->
+              </div>
+
     <div class="cleaner"></div>
 </div>	<!-- END of templatemo_header_wrapper -->
 
@@ -250,7 +208,7 @@ function doSort(pstrFld, pstrOrd)
 
 <div id="templatemo_footer_wrapper">
     <div id="templatemo_footer">
-    	<!--Copyright © 2048 Your Company Name | Designed by <a href="http://www.templatemo.com" target="_parent">Free CSS Templates</a>-->
+    	<!--Copyright Â© 2048 Your Company Name | Designed by <a href="http://www.templatemo.com" target="_parent">Free CSS Templates</a>-->
     </div> <!-- END of templatemo_footer_wrapper -->
 </div> <!-- END of templatemo_footer -->
 

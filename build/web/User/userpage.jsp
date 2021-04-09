@@ -1,8 +1,4 @@
-<%-- 
-    Document   : userpage
-    Created on : Jan 15, 2013, 12:05:32 PM
-    Author     : a
---%>
+
 
 <%@page import="DAL.MyAdo"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

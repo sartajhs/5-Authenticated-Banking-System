@@ -1,8 +1,4 @@
-<%-- 
-    Document   : psychotestcheck
-    Created on : Jun 7, 2013, 9:25:43 AM
-    Author     : Praful
---%>
+
 
 <%@page import="BAL.RandomRenge"%>
 <%@page import="java.text.*"%>

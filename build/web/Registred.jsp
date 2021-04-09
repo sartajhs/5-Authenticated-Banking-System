@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Registred
-    Created on : May 13, 2013, 12:47:01 PM
-    Author     : Praful
---%>
+
 
 <%@page import="java.util.*"%>
 <%@page import="java.io.*"%>

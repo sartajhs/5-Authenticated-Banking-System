@@ -1,8 +1,4 @@
-< %-- 
-Document   : check
-Created on : Feb 12, 2013, 12:42:51 PM
-Author     : a
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@page import="BAL.*" %>

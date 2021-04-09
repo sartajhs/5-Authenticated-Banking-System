@@ -1,8 +1,4 @@
-<%-- 
-    Document   : transactions
-    Created on : Jan 15, 2013, 1:50:13 PM
-    Author     : a
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@ taglib uri="/WEB-INF/datagrid.tld" prefix="grd" %>

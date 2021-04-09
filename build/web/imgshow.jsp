@@ -1,8 +1,4 @@
-<%-- 
-    Document   : imgshow
-    Created on : May 15, 2013, 7:57:15 PM
-    Author     : Praful
---%>
+
 
 <%@page import="java.io.InputStream"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

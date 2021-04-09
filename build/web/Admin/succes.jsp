@@ -1,8 +1,4 @@
-<%-- 
-    Document   : succes
-    Created on : Feb 19, 2013, 1:03:46 PM
-    Author     : a
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -25,11 +21,7 @@
         <script type="text/javascript" src="js/jquery.min.js"></script>
         <script type="text/javascript" src="js/ddsmoothmenu.js">
 
-            /***********************************************
-             * Smooth Navigational Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
-             * This notice MUST stay intact for legal use
-             * Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
-             ***********************************************/
+          
 
         </script>
 

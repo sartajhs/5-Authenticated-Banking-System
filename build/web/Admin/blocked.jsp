@@ -1,8 +1,4 @@
-<%-- 
-    Document   : blocked
-    Created on : May 23, 2013, 10:27:07 PM
-    Author     : Praful
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@page import="java.sql.*" %>

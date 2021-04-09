@@ -1,8 +1,4 @@
-<%-- 
-    Document   : deposit1
-    Created on : Jan 15, 2013, 4:11:54 PM
-    Author     : a
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@page import="BAL.*" %>

@@ -1,8 +1,4 @@
-<%-- 
-    Document   : withdrawal1
-    Created on : Jan 15, 2013, 3:02:33 PM
-    Author     : a
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@page import="BAL.*" %>

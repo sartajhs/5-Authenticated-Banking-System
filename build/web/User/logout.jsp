@@ -1,8 +1,4 @@
-<%-- 
-    Document   : logout
-    Created on : May 25, 2013, 6:26:43 PM
-    Author     : Praful
---%>
+
 
 <%@page import="DAL.*"%>
 <%@page import="BAL.*" %>
